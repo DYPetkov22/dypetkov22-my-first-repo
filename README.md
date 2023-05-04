@@ -1,4 +1,4 @@
-# This is my rep
+# This is my repo
 
 ## This is a subheading
 
